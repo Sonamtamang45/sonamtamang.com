@@ -1,0 +1,488 @@
+     
+         
+         <ul>
+          
+          <div class="wrapper">
+             <div class="card">
+                <div class="poster"><img src="/Assests/Img/interstellar.webp" alt="Location Unknown"></div>
+                  <div class="details">
+                    <h1>Interstellar</h1>
+                    <h2>2014</h2>
+            
+                  </div>
+              </div>
+              <div class="card">
+                  <div class="poster"><img src="https://wallpapercave.com/wp/wp2014333.jpg" alt="Location Unknown"></div>
+                    <div class="details">
+                     <h1>The Shawshank Redemption</h1>
+                      <h2>1994</h2>
+              
+                </div>
+              </div>
+              <div class="card">
+                  <div class="poster"><img src="/Assests/Img/babel-movie-poster.jpeg" alt="Location Unknown"></div>
+                    <div class="details">
+                   <h1>Babel</h1>
+                    <h2>2006</h2>
+                </div>
+              </div>
+               <div class="card">
+              <div class="poster"><img src="https://play-lh.googleusercontent.com/wqR4OWiQvXqOu3eAIAhuCmow9phxPDfAvEU7r2vi0Z9tcpg9JN5t-cHnTiVjXubKPjnjLbvZvdRW5Q2NiQ" alt="Location Unknown"></div>
+                <div class="details">
+                  <h1>Life is Beautiful</h1>
+                  <h2>1997</h2>
+          
+                 </div>
+               </div>
+               <div class="card">
+                <div class="poster"><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-yiedo2qXDHhifrvzzlG6xmu0wcPkzKVb31di-yOLqoME3uQV" alt="Location Unknown"></div>
+                  <div class="details">
+                   <h1> Into the Wild</h1>
+                    <h2>2007</h2>
+            
+              </div>
+              </div>
+            <div class="card">
+             <div class="poster"><img src="https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/thepursuitofhappyness_onesheet_1400x2100.png?itok=BSpvsOsJ" alt="Location Unknown"></div>
+             <div class="details">
+            <h1>The Pursuit of HappynessCredits</h1>
+            <h2>2006</h2>
+             </div>
+            </div>
+                   
+            <div class="card">
+              <div class="poster"><img src="https://i.pinimg.com/1200x/13/56/b7/1356b7b4b75b5d37552d429698e01a1c.jpg" alt="Location Unknown"></div>
+                <div class="details">
+                  <h1>Inception</h1>
+                  <h2>2010</h2>
+          
+                </div>
+            </div>
+
+
+
+            <div class="card">
+              <div class="poster"><img src="https://m.media-amazon.com/images/M/MV5BMTMyMzc1OTI1MF5BMl5BanBnXkFtZTcwNjUzNTIwNA@@._V1_.jpg" alt="Location Unknown"></div>
+                <div class="details">
+               <h1>One Flew Over the Cuckoo's Nest</h1>
+                <h2>1975</h2>
+            </div>
+          </div>
+
+
+            <div class="card">
+                <div class="poster"><img src="/Assests/Img/truman_show-poster.jpeg" alt="Location Unknown"></div>
+                  <div class="details">
+                   <h1>The Truman Show</h1>
+                    <h2>1998</h2>
+            
+              </div>
+            </div>
+            <div class="card">
+                <div class="poster"><img src="/Assests/Img/500_days_of _summerposter.webp" alt="Location Unknown"></div>
+                  <div class="details">
+                 <h1>(500) Days of Summer</h1>
+                  <h2>2009</h2>
+              </div>
+            </div>
+                  
+            <div class="card">
+              <div class="poster"><img src="https://cdn.britannica.com/44/176044-050-57B2DF6B/James-Stewart-Donna-Reed-Its-a-Wonderful.jpg" alt="Location Unknown"></div>
+                <div class="details">
+                  <h1>It's a Wonderful Life</h1>
+                  <h2>1946</h2>
+          
+                </div>
+            </div>
+
+
+
+            <div class="card">
+                <div class="poster"><img src="https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_.jpg" alt="Location Unknown"></div>
+                  <div class="details">
+                   <h1>Ford vs Ferrari </h1>
+                    <h2>2019</h2>
+            
+              </div>
+            </div>
+            <div class="card">
+                <div class="poster"><img src="https://lumiere-a.akamaihd.net/v1/images/image_26efb119.jpeg?region=0%2C0%2C540%2C810"></div>
+                  <div class="details">
+                 <h1>Soul</h1>
+                  <h2>2020</h2>
+              </div>
+            </div>
+
+                     
+            <div class="card">
+              <div class="poster"><img src="https://m.media-amazon.com/images/M/MV5BNDQ1YmNmNDctMTZiZS00OGU3LWIyN2YtMWIwMmVhNDQ0MjY5XkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_.jpg" alt="Location Unknown"></div>
+                <div class="details">
+                  <h1>Catch Me If You Can</h1>
+                  <h2>2002</h2>
+          
+                </div>
+            </div>
+            <div class="card">
+                <div class="poster"><img src="https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" alt="Location Unknown"></div>
+                  <div class="details">
+                   <h1>Dead Poet’s Society</h1>
+                    <h2>1989</h2>
+            
+              </div>
+            </div>
+          
+
+                   
+            <div class="card">
+              <div class="poster"><img src="https://m.media-amazon.com/images/M/MV5BMTY3ODg2OTgyOF5BMl5BanBnXkFtZTgwODk1OTAwMzE@._V1_.jpg" alt="Location Unknown"></div>
+                <div class="details">
+                  <h1>Unbroken </h1>
+                  <h2>2014</h2>
+          
+                </div>
+            </div>
+            <div class="card">
+                <div class="poster"><img src="https://m.media-amazon.com/images/M/MV5BYzY3YzNlZjctZTNiNC00MjUzLTlhM2ItNjdkNzAwMDhmYmRmXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_UY1200_CR90,0,630,1200_AL_.jpg" alt="Location Unknown"></div>
+                  <div class="details">
+                   <h1>The Terminal</h1>
+                    <h2>2004</h2>
+            
+              </div>
+            </div>
+            <div class="card">
+                <div class="poster"><img src="https://m.media-amazon.com/images/M/MV5BYjQ1ZWFlZDQtZDhjOS00NjdmLTg1MzEtYjM0MzM0MGIxYTU5XkEyXkFqcGdeQXVyMTEyMDcwNw@@._V1_.jpg"></div>
+                  <div class="details">
+                 <h1>Eternal Sunshine of the Spotless Mind
+                </h1>
+                  <h2>2004 </h2>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="poster"><img src=" https://flxt.tmsimg.com/assets/p7951929_p_v8_aa.jpg" alt="Location Unknown"></div>
+                <div class="details">
+                  <h1>3 Idiots</h1>
+                  <h2>2009</h2>
+          
+                </div>
+            </div>
+            <div class="card">
+                <div class="poster"><img src="https://images.moviesanywhere.com/8138018b864dc57c72d5fef3111b1a79/25942745-f176-4591-bba6-389ecf114793.jpg" alt="Location Unknown"></div>
+                  <div class="details">
+                   <h1>The Lunchbox</h1>
+                    <h2>2013</h2>
+            
+              </div>
+            </div>
+            <div class="card">
+                <div class="poster"><img src='https://miro.medium.com/v2/resize:fit:897/1*A7RgSOPsn2IGETH4R1A2tw.jpeg' alt="Location Unknown"></div>
+                  <div class="details">
+                 <h1>Parasite</h1>
+                  <h2>2019</h2>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="poster"><img src='https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_FMjpg_UX1000_.jpg' alt="Location Unknown"></div>
+                <div class="details">
+               <h1>PK</h1>
+                <h2>2014</h2>
+            </div>
+          </div>
+          <div class="card">
+            <div class="poster"><img src='https://m.media-amazon.com/images/M/MV5BMGIxNzJmNjktYzA5OS00MmZlLThlYjItNTkxMGFhMjRkNDkzXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg' alt="Interstate 60"></div>
+              <div class="details">
+             <h1>Interstate 60</h1>
+              <h2>2002</h2>
+          </div>
+        </div>
+
+
+
+
+        </div>
+      </div>
+   
+      </ul>
+
+  
+        </div>
+
+
+  
+<style>* {
+
+
+.gallery {
+	position: absolute;
+	width: 100%;
+	height: 120vh;
+  align-items: center;
+}
+
+.Heading_card{
+  text-align: center;
+  font-size: 56px;
+}
+.cards_2{
+  position: absolute;
+	width: 14rem;
+	height: 18rem;
+	top:1%;
+	right: 10%;
+  margin-top: -20%;
+	transform: translate(-50%, -50%);
+}
+.cards {
+	position: absolute;
+	width: 14rem;
+	height: 18rem;
+	top:1%;
+	left: 10%;
+  margin-top: -20%;
+	transform: translate(-50%, -50%);
+}
+
+.wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    padding-top: 10%;
+
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 24px;
+    flex-wrap: wrap;
+}
+
+.card {
+    position: relative;
+    width: 200px;
+    height: 300px;
+    background: #000;
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+  
+}
+
+.poster {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.poster::before {
+    content: '';
+    position: absolute;
+    bottom: -45%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    transition: .3s;
+}
+
+.card:hover .poster::before {
+    bottom: 0;
+}
+
+.poster img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: .3s;
+}
+
+.card:hover .poster img {
+    transform: scale(1.1);
+}
+
+.details {
+    position: absolute;
+    bottom: -100%;
+    left: 0;
+    width: 100%;
+    height: auto;
+    padding: 1.5em 1.5em 2em;
+    background: #000a;
+    backdrop-filter: blur(16px) saturate(120%);
+    transition: .3s;
+    color: #fff;
+    z-index: 2;
+}
+
+.card:hover .details {
+    bottom: 0;
+}
+
+.details h1,
+.details h2 {
+    font-weight: 700;
+}
+
+.details h1 {
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+
+.details h2 {
+    font-weight: 400;
+    font-size: 1em;
+    margin-bottom: 10px;
+    opacity: .6;
+}
+
+</style>
+
+
+</style>
+<style>
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600);
+
+
+.text {
+  position: absolute;
+  width: 450px;
+  left: 45%;
+  margin-left: -225px;
+  height: 40px;
+  top: 70%;
+  margin-top: 100px;
+}
+
+p {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0;
+}
+
+.word {
+  position: absolute;
+  width: 220px;
+  opacity: 0;
+}
+
+.letter {
+  display: inline-block;
+  position: relative;
+  float: left;
+  transform: translateZ(25px);
+  transform-origin: 50% 50% 25px;
+}
+
+.letter.out {
+  transform: rotateX(90deg);
+  transition: transform 0.32s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+
+.letter.behind {
+  transform: rotateX(-90deg);
+}
+
+.letter.in {
+  transform: rotateX(0deg);
+  transition: transform 0.38s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.wisteria {
+  color: #8e44ad;
+}
+
+.belize {
+  color: #2980b9;
+}
+
+.pomegranate {
+  color: #c0392b;
+}
+
+.green {
+  color: #16a085;
+}
+}
+
+
+</style>
+
+
+
+
+<script>var words = document.getElementsByClassName('word');
+  var wordArray = [];
+  var currentWord = 0;
+  
+  words[currentWord].style.opacity = 1;
+  for (var i = 0; i < words.length; i++) {
+    splitLetters(words[i]);
+  }
+  
+  function changeWord() {
+    var cw = wordArray[currentWord];
+    var nw = currentWord == words.length-1 ? wordArray[0] : wordArray[currentWord+1];
+    for (var i = 0; i < cw.length; i++) {
+      animateLetterOut(cw, i);
+    }
+    
+    for (var i = 0; i < nw.length; i++) {
+      nw[i].className = 'letter behind';
+      nw[0].parentElement.style.opacity = 1;
+      animateLetterIn(nw, i);
+    }
+    
+    currentWord = (currentWord == wordArray.length-1) ? 0 : currentWord+1;
+  }
+  
+  function animateLetterOut(cw, i) {
+    setTimeout(function() {
+      cw[i].className = 'letter out';
+    }, i*80);
+  }
+  
+  function animateLetterIn(nw, i) {
+    setTimeout(function() {
+      nw[i].className = 'letter in';
+    }, 340+(i*80));
+  }
+  
+  function splitLetters(word) {
+    var content = word.innerHTML;
+    word.innerHTML = '';
+    var letters = [];
+    for (var i = 0; i < content.length; i++) {
+      var letter = document.createElement('span');
+      letter.className = 'letter';
+      letter.innerHTML = content.charAt(i);
+      word.appendChild(letter);
+      letters.push(letter);
+    }
+    
+    wordArray.push(letters);
+  }
+  
+  changeWord();
+  setInterval(changeWord, 4000);
+  
+  </script>
+
+
+  <style>
+    .fade-transition {
+      opacity: 1;
+      transition: opacity 0.5s ease-in-out;
+    }
+    
+    .fade-transition.hide {
+      opacity: 0;
+    }
+  </style>
+
