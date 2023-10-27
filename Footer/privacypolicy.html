@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Writings</title>
+    <link rel="stylesheet" href="/Assests/Css/writings.css"> 
+</head>
+<body>
+    <header>
+        <div class="wrapper">
+          <label></label>
+          <select id="highlight-style">
+            <option>background</option>
+            <option>underline</option>
+          </select>
+        </div>
+        
+</style>
+        </div>
+        <div class="wrapper">
+          <input type="checkbox" id="mode" />
+          <label for="mode">  </label>
+        </div>
+      </header>
+      
+      <main>
+        <h1>Privacy Policy</h1>
+
+       
+        <p>
+
+            This Privacy Policy explains how I collect, use, and share personal information when you visit my website, Sonamtamang.com.
+                <h3>What information do I collect?</h3>
+            
+            
+            <p> <mark class="text-highlight">  I collect the following information from you:</p>
+         
+            <p>- Information you provide directly: This includes any information you provide to me when you contact me through the contact form, or subscribe to my email list..</p>
+           <p> -Information collected automatically: This includes information such as your IP address, browser type, operating system, and pages visited. I also collect information about your interactions with my website, such as the links you click on.</p>
+
+        </mark>
+            
+            <h3>How do I use your information?</h3>
+            
+          <p>  I use your information to:</p>
+          <p> - Send you my email newsletter, if you have subscribed</p>
+          <p>- Improve my website and content.</p>
+            
+           <h3> Do I share your information with third parties?</h3>
+            
+            <p>I do not sell or share your personal information with any third parties. However, I may share your information with third-party service providers who help me operate my website and provide services to you. These service providers include:
+            <p>- Web hosting provider</p>
+            <p> - Email marketing provider</p>
+            <p> - Analytics provider</p>
+
+            <p> All third-party service providers are contractually obligated to keep your information confidential and to use it only for the purposes of providing services to me.</p>
+               
+            
+            
+            <h3>    How do I protect your information?</h3>
+            
+            
+        <p> I take reasonable measures to protect your personal information from unauthorized access, use, disclosure, alteration, or destruction. I use a variety of security measures, including encryption, firewalls, and access control procedures.</p>
+            
+            <h3>  How long do I retain your information?</h3>
+            
+          <p> I retain your personal information for as long as necessary to provide you with the services and products you have requested, or for other legitimate business purposes, such as complying with legal obligations, resolving disputes, and enforcing my agreements.</p>
+            
+            <h3>      Your choices</h3>
+            
+            <p>  You have the following choices regarding your personal information:</p>
+            <p>You can opt out of receiving my email newsletter by clicking the unsubscribe link at the bottom of any email I send you.</p>
+            <p>You can not request to delete your personal information by contacting me at 95tmgson@gmail.com.</p>
+            
+                <h3> Changes to this Privacy Policy</h3>
+            
+            <p>I may update this Privacy Policy from time to time. If I make any significant changes, I will post a notice on my website or mail you.</p>
+            
+            <h3>     Contact me</h3>
+            
+            <p>  If you have any questions about this Privacy Policy, please contact me at 95tmgson@gmail.com.</p>
+            
+                <h3>    Effective date</h3>
+            
+        
+        
+            <p>  <mark class="text-highlight">  This Privacy Policy is effective as of Oct 28  2023.</mark></p>
+            
+           <p> <mark class="text-highlight">   </mark></p>  
+            
+            <mark class="text-highlight"> <h3></h3></mark></p>
+      
+      
+      
+      
+      </main>
+ 
+     
+
+
+</body>
+
+
+<!--Script for the blogs sections       -->
+<script>
+  function redirectToPage(pageUrl) {
+  window.location.href = pageUrl;
+}
+
+  </script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.1/gsap.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.1/ScrollTrigger.min.js'></script>
+      <script id="rendered-js" >
+const highlight = document.getElementById("highlight-style");
+const mode = document.getElementById("mode");
+
+gsap.registerPlugin(ScrollTrigger);
+
+gsap.utils.toArray(".text-highlight").forEach(highlight => {
+  ScrollTrigger.create({
+    trigger: highlight,
+    start: "-100px center",
+    onEnter: () => highlight.classList.add("active") });
+
+});
+
+const setHighlightStyle = (value) =>
+document.body.setAttribute("data-highlight", value);
+
+mode.addEventListener("click", (e) =>
+document.body.classList.toggle("dark-mode"));
+
+
+highlight.addEventListener("change", e => setHighlightStyle(e.target.value));
+
+setHighlightStyle(highlight.value);
+    </script>
+</html>
